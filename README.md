@@ -11,6 +11,7 @@ In these experiments, the parameters identified by the proposed method enable a 
 # Credits
 
 Daniel Haugk (st161112@stud.uni-stuttgart.de)
+
 Bohao Zhang (jimzhang@umich.edu)
 
 [RoahmLab](https://www.roahmlab.com/), University of Michigan, Ann Arbor
