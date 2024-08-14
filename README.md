@@ -1,4 +1,4 @@
-# ConstriainedSysID: System Identification For Constrained Robots
+# System Identification For Constrained Robots
 
 Identifying the parameters of robotic systems, such as motor inertia or joint friction, is critical to satisfactory controller synthesis, model analysis, and observer design. 
 Conventional identification techniques are designed primarily for unconstrained systems, such as robotic manipulators. 
