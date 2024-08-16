@@ -1,5 +1,6 @@
 # System Identification For Constrained Robots
 
+## Introduction
 Identifying the parameters of robotic systems, such as motor inertia or joint friction, is critical to satisfactory controller synthesis, model analysis, and observer design. 
 Conventional identification techniques are designed primarily for unconstrained systems, such as robotic manipulators. 
 In contrast, the growing importance of legged robots that feature closed kinematic chains or other constraints, poses challenges to these traditional methods. 
@@ -7,7 +8,7 @@ This paper introduces a system identification approach for constrained systems t
 The proposed approach is validated in simulation and in the real-world on Digit, which is a 20 degree-of-freedom humanoid robot built by Agility Robotics.
 In these experiments, the parameters identified by the proposed method enable a model-based controller to achieve better tracking performance than when it uses the default parameters provided by the manufacturer. 
 
-# Credits
+## Credits
 
 Daniel Haugk (st161112@stud.uni-stuttgart.de)
 
