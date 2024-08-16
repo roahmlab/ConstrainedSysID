@@ -8,6 +8,12 @@ This paper introduces a system identification approach for constrained systems t
 The proposed approach is validated in simulation and in the real-world on Digit, which is a 20 degree-of-freedom humanoid robot built by Agility Robotics.
 In these experiments, the parameters identified by the proposed method enable a model-based controller to achieve better tracking performance than when it uses the default parameters provided by the manufacturer. 
 
+![Summary Figure](https://github.com/user-attachments/assets/90796e01-97d6-4b8c-89a1-65b0e4341259)
+
+To illustrate the utility of this method, this paper compared the performance of a model based tracking controller to track a user-specified trajectory. 
+The tracking performance of the controller was significantly less when using the parameters identified by the algorithm developed in this paper (drawn in red on the right) when compared to using the parameters specified by the manufacturer (drawn in blue on the right).
+The actual behavior of the robot while following the user-specified trajectory using the parameters identified by the algorithm developed in this paper can be seen on the top right of the image at 4 time instances. 
+
 ## Credits
 
 Daniel Haugk (st161112@stud.uni-stuttgart.de)
@@ -15,3 +21,13 @@ Daniel Haugk (st161112@stud.uni-stuttgart.de)
 Bohao Zhang (jimzhang@umich.edu)
 
 [RoahmLab](https://www.roahmlab.com/), University of Michigan, Ann Arbor
+
+<!-- To cite our work in your academic research, please use the following bibtex entry:
+
+```bibtex
+@misc{constrainedSysIdPaper,
+  author = {},
+  title = {},
+  url = {}
+}
+``` -->
