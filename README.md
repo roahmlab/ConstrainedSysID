@@ -20,14 +20,18 @@ Daniel Haugk (st161112@stud.uni-stuttgart.de)
 
 Bohao Zhang (jimzhang@umich.edu)
 
-[RoahmLab](https://www.roahmlab.com/), University of Michigan, Ann Arbor
+This work is developed under [RoahmLab](https://www.roahmlab.com/), University of Michigan, Ann Arbor.
 
-<!-- To cite our work in your academic research, please use the following bibtex entry:
+To cite our work in your academic research, please use the following bibtex entry:
 
 ```bibtex
-@misc{constrainedSysIdPaper,
-  author = {},
-  title = {},
-  url = {}
+@misc{zhang2024identificationconstrainedrobots,
+      title={System Identification For Constrained Robots}, 
+      author={Bohao Zhang and Daniel Haugk and Ram Vasudevan},
+      year={2024},
+      eprint={2408.08830},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2408.08830}, 
 }
-``` -->
+```
