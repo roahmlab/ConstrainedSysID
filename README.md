@@ -1,6 +1,9 @@
 # System Identification For Constrained Robots
 
 ## Introduction
+
+Our paper is available [here](https://arxiv.org/abs/2408.08830).
+
 Identifying the parameters of robotic systems, such as motor inertia or joint friction, is critical to satisfactory controller synthesis, model analysis, and observer design. 
 Conventional identification techniques are designed primarily for unconstrained systems, such as robotic manipulators. 
 In contrast, the growing importance of legged robots that feature closed kinematic chains or other constraints, poses challenges to these traditional methods. 
