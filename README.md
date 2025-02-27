@@ -28,13 +28,10 @@ This work is developed under [RoahmLab](https://www.roahmlab.com/), University o
 To cite our work in your academic research, please use the following bibtex entry:
 
 ```bibtex
-@misc{zhang2024identificationconstrainedrobots,
-      title={System Identification For Constrained Robots}, 
-      author={Bohao Zhang and Daniel Haugk and Ram Vasudevan},
-      year={2024},
-      eprint={2408.08830},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2408.08830}, 
+@article{zhang2024system,
+  title={System Identification For Constrained Robots},
+  author={Zhang, Bohao and Haugk, Daniel and Vasudevan, Ram},
+  journal={arXiv preprint arXiv:2408.08830},
+  year={2024}
 }
 ```
